@@ -2,7 +2,7 @@ const darkTheme  = {
     name: 'dark',
     color:{
         primary: '#1e1e1e',
-        second:'#fff',
+        second:'#95b8d1',
         lightGray: "#1e1e1e",
 
         backgroundColor: "#121212",

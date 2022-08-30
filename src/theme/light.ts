@@ -3,9 +3,9 @@ const lightTheme  = {
     color:{
         primary: '#0070f3',
         second:'#1f2022',
-        lightGray: "#dbdbdb",
+        lightGray: "#95b8d1",
 
-        backgroundColor: "#0070f3",
+        backgroundColor: "#dbdbdb",
         TextColor: '#fff'
     }
 }
