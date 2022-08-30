@@ -11,7 +11,8 @@ export const Container = styled.div`
     align-items: center;
     justify-content: space-between;
 
-    h3{
-        color: ${props => props.theme.color.TextColor};
+    img{
+        width: 180px;
+        margin-top: 30px;
     }
 `

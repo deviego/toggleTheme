@@ -2,6 +2,7 @@ import { Container } from "./styled";
 import ReactSwitch from "react-switch";
 import { useContext } from "react";
 import {  ThemeContext } from "styled-components";
+import logo from './image/logo.png'
 
 type Props =  {
     onChangeTheme: ( ) => void
@@ -12,7 +13,7 @@ export default function Header({onChangeTheme}: Props) {
 
   return (
     <Container>
-      <h3>Deviego</h3>
+      <img src={logo} alt="" />
       <ReactSwitch 
       onChange={onChangeTheme} 
       checked ={name == 'light'}
