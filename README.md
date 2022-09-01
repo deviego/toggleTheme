@@ -4,8 +4,10 @@
 <p align="center"><a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="https://github.com/animavita/animavita](https://github.com/deviego/deviego)">Autor</a>
-
-<h3 id="objetivo">objective</h3>
+ 
+ #
+ 
+<h3 id="objetivo">Objective</h3>
 <p> The goal of this project is to practice web, UI and UX cohesives, and become a standard project to put in future projects </p>
 
 #
@@ -38,6 +40,9 @@
 
 <p align="center">☀️ Mode light and 🌑 mode Dark in mobile</p>
 
- <a href="#"><img src="https://user-images.githubusercontent.com/73961367/187962830-2a5fd2e2-6ecc-4860-bcb7-f1ecc75d3c64.png"/></a>
-
- <a href="#"><img src="https://user-images.githubusercontent.com/73961367/187963615-eeabea7b-eca3-466e-a31a-da3ec71f8704.png"/></a>
+<div align="center" style=" display: flex">
+ 
+ <img src="https://user-images.githubusercontent.com/73961367/187962830-2a5fd2e2-6ecc-4860-bcb7-f1ecc75d3c64.png" />
+ 
+ <img src="https://user-images.githubusercontent.com/73961367/187963615-eeabea7b-eca3-466e-a31a-da3ec71f8704.png"/>
+<div>
