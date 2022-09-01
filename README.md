@@ -1,26 +1,11 @@
 
 
-<h1 align="center"><a href="https://nodejs.org/en/docs/">🔗 Node</a></h1><p align="center">🚀 Api for alert in email when you have a important date</p>
+<h1 align="center"><a href="https://nodejs.org/en/docs/">🔗 React</a></h1><p align="center">🚀 Toggle of theme Dark and light</p>
 
-#
- 
- > to use this code you will need create SMTP with your informations
- - exempele: 
-  <code> 
-      module.exports = {
-      host: "smtp.gmail.com",
-      port: 587,
-      user: "deviego@gmail.com",
-      pass: "your passward",
-    };</code>
-    
- > To see only the part sanding e-mails visit my repository [Tranporter Gmail](https://github.com/deviego/TransporterGmail)
-    
-#
+
 
 <p align="center"><a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#modules">Modules</a> • 
  <a href="https://github.com/animavita/animavita](https://github.com/deviego/deviego)">Autor</a>
 
 <h3 id="objetivo">objective</h3>
