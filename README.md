@@ -7,6 +7,11 @@
  
  #
  
+ <div align="center">
+
+![Badge](http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=GREEN&style=for-the-badge)
+</div>
+ 
 <h3 id="objetivo">Objective</h3>
 <p> The goal of this project is to practice web, UI and UX cohesives, and become a standard project to put in future projects </p>
 
