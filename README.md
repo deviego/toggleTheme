@@ -37,9 +37,11 @@
 
 #
 
-<div display="flex">
+<div style="display:flex">
  
  ![image](https://user-images.githubusercontent.com/73961367/187962830-2a5fd2e2-6ecc-4860-bcb7-f1ecc75d3c64.png)
+ 
+ <img src="https://user-images.githubusercontent.com/73961367/187962830-2a5fd2e2-6ecc-4860-bcb7-f1ecc75d3c64.png"/>
 
  ![image](https://user-images.githubusercontent.com/73961367/187963615-eeabea7b-eca3-466e-a31a-da3ec71f8704.png)
 
