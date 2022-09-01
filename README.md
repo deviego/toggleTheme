@@ -25,4 +25,22 @@
 
 - [React](https://pt-br.reactjs.orgz/)
  #
+ 
+ <p align="center">🌑 Mode Dark in Desktop</p>
+ 
+![image](https://user-images.githubusercontent.com/73961367/187961263-09212daa-e291-4d42-b962-5bc7d958cd81.png)
+
+#
+ <p align="center">☀️ Mode light in Desktop</p>
+ 
+![image](https://user-images.githubusercontent.com/73961367/187961361-aca00713-b23a-49cb-94df-b778a9288582.png)
+
+#
+
+<div display="flex">
+ 
+ ![image](https://user-images.githubusercontent.com/73961367/187962830-2a5fd2e2-6ecc-4860-bcb7-f1ecc75d3c64.png)
+ 
+ola
+</div>
 
