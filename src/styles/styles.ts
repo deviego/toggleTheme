@@ -17,7 +17,7 @@ export const Content = styled.div`
 ;
 `;
 export const LeftContent = styled.div`
-  width: 30%;
+  width: 35%;
   height: 100%;
   background: ${(props) => props.theme.color.lightGray};
 `;
